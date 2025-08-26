@@ -1,5 +1,17 @@
-# 💫 About Me:
-Hi, I’m Taranjeet 👋  <br>A Full-Stack Developer who loves solving problems with code.  <br>💼 Currently open to job opportunities in full-stack development.  <br>⚡ Skilled in React, Next.js, Express, and MongoDB.  <br>🌱 Future Plans: Keep improving my skills, learn new technologies, and contribute to open-source.  <br>
+## 💫 Hi 👋, I'm Taranjeet  
+A Full-Stack Developer who enjoys creating meaningful and practical web applications.  
+💼 Currently open to job opportunities in full-stack development.  
+⚡ Skilled in React, Next.js, Express, and MongoDB.  
+🌱 Always seeking to grow, learn new technologies, and contribute to open-source projects.  
+
+📫 Email Me 👉 ✉️ taranjeetsinghtanu2@gmail.com For Collaboration, Projects, or Learning Together.  
+
+---
+
+💻 I believe in learning by doing — writing code, solving challenges, and building projects is how I grow as a developer.  
+🌟 Each project is an opportunity to improve, explore, and understand things more deeply.  
+🎯 I enjoy the process of coding itself, staying curious, and approaching problems thoughtfully.  
+✨ My goal is to create applications that are both useful and a reflection of continuous learning.  
 
 
 
@@ -22,7 +34,14 @@ Hi, I’m Taranjeet 👋  <br>A Full-Stack Developer who loves solving problems 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Taranjeet05&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
